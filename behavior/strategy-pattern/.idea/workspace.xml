@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1a57e82-320f-4cc1-8704-8cf3d9fbca37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/FirstStrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/SecondStrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/Strategies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategy/ThirdStrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EhabAhmed1111&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:EhabAhmed1111/design-pattern-java.git&quot;,
+    &quot;accountId&quot;: &quot;86f5dc3d-105d-4771-91e8-36d56f146912&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3DNzM4NBfZJ5pDbnY3Af21VKwns" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/moaz/IdeaProjects/design-pattern/behavior/strategy-pattern",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/moaz/IdeaProjects/design-pattern/behavior/strategy-pattern/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1a57e82-320f-4cc1-8704-8cf3d9fbca37" name="Changes" comment="" />
+      <created>1778137267411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778137267411</updated>
+      <workItem from="1778137269002" duration="3000" />
+      <workItem from="1778137386285" duration="3673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
