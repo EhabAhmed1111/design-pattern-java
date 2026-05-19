@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1a57e82-320f-4cc1-8704-8cf3d9fbca37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/FirstStrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/SecondStrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/Strategies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strategy/ThirdStrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy-pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +39,30 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/moaz/IdeaProjects/design-pattern/behavior/strategy-pattern",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/moaz/IdeaProjects/design-pattern/behavior/strategy-pattern/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/moaz/IdeaProjects/design-pattern/behavior/strategy-pattern&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/moaz/IdeaProjects/design-pattern/behavior/strategy-pattern/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c1a57e82-320f-4cc1-8704-8cf3d9fbca37" name="Changes" comment="" />
@@ -72,6 +72,7 @@
       <updated>1778137267411</updated>
       <workItem from="1778137269002" duration="3000" />
       <workItem from="1778137386285" duration="3673000" />
+      <workItem from="1779198513575" duration="2000" />
     </task>
     <servers />
   </component>
